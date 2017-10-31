@@ -21,3 +21,7 @@ def display_board
 end
 
 puts display_board
+
+def greeting(name)
+  puts "Hello, #{name}!"
+end
